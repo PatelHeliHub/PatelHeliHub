@@ -8,12 +8,7 @@
   *Passionate about building responsive, clean, and user-friendly web applications.*
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/heli-patel-922333283" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-    </a>
-    <a href="mailto:helipatel1505@gmail.com">
-      <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-    </a>
+    <a href="https://www.linkedin.com/in/heli-patel-922333283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:helipatel1505@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   </p>
 
 </div>
