@@ -8,21 +8,12 @@
   *Passionate about building responsive, clean, and user-friendly web applications.*
 
   <p align="center">
-    <a href="[LinkedIn Link]" target="_blank">
+    <a href="https://www.linkedin.com/in/heli-patel-922333283" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
     </a>
-    <a href="[Portfolio Link]" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=globe&logoColor=6366F1" alt="Portfolio" />
-    </a>
-    <a href="mailto:[Email Address]">
+    <a href="mailto:helipatel1505@gmail.com">
       <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/PatelHeliHub?label=Followers&style=flat-square&color=6366f1&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=6366f1&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatelHeliHub&style=flat-square&logo=github" alt="Repositories" />
-    <img src="https://komarev.com/counter/?username=PatelHeliHub&color=6366f1&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
   </p>
 
 </div>
@@ -36,6 +27,7 @@
 - 🎨 **Component Mindset:** Focus on creating modular, reusable React components to keep UI layouts maintainable and clean.
 - 🔗 **API Integration:** Comfortable connecting backend REST API services with frontend state to display dynamic data.
 - 📚 **Continuous Growth:** Always code-learning and testing newer patterns to write clean, maintainable code.
+- 📫 Reach me at: [helipatel1505@gmail.com](mailto:helipatel1505@gmail.com)
 
 ---
 
