@@ -2,10 +2,10 @@
   
   # Heli Patel
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B+I%27m+Heli+Patel;Frontend+Developer;React+Developer;JavaScript+Developer;UI+Enthusiast;Always+Learning+New+Technologies;Open+Source+Learner)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B+I%27m+Heli+Patel;Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-  **Frontend Developer | React Developer | JavaScript Developer**  
-  *Building responsive, modern, and high-performance web applications with a focus on UI/UX.*
+  **Frontend Developer | React Developer | JavaScript Enthusiast**  
+  *Passionate about building responsive, clean, and user-friendly web applications.*
 
   <p align="center">
     <a href="[LinkedIn Link]" target="_blank">
@@ -21,7 +21,6 @@
 
   <p align="center">
     <img src="https://img.shields.io/github/followers/PatelHeliHub?label=Followers&style=flat-square&color=6366f1&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/PatelHeliHub?label=Stars&style=flat-square&color=6366f1&logo=github" alt="Stars" />
     <img src="https://img.shields.io/badge/dynamic/json?color=6366f1&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatelHeliHub&style=flat-square&logo=github" alt="Repositories" />
     <img src="https://komarev.com/counter/?username=PatelHeliHub&color=6366f1&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
   </p>
@@ -32,10 +31,11 @@
 
 ### 👤 About Me
 
-- 💻 **Frontend Engineering:** Specialized in React and modern web ecosystems to build fluid, low-latency interfaces.
-- 🏢 **Enterprise Work:** Actively architecting frontend views for **ERP Management Systems** with high operational complexity.
-- 🎨 **UI/UX Focus:** Committed to component modularity, visual aesthetics, clean layout styling, and accessibility standards.
-- 📈 **Goal:** Elevating web applications through clean-code practices, advanced performance optimization, and custom-tailored user journeys.
+- 💻 **Frontend Development:** Passionate junior developer focusing on building user-friendly interfaces using React and modern CSS frameworks.
+- ⚙️ **ERP UI Experience:** Spent 6 months developing responsive interfaces for ERP portals, coding forms, authentication views, and payroll dashboards.
+- 🎨 **Component Mindset:** Focus on creating modular, reusable React components to keep UI layouts maintainable and clean.
+- 🔗 **API Integration:** Comfortable connecting backend REST API services with frontend state to display dynamic data.
+- 📚 **Continuous Growth:** Always code-learning and testing newer patterns to write clean, maintainable code.
 
 ---
 
@@ -65,13 +65,13 @@
       <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
       <img src="https://img.shields.io/badge/Cursor_AI-1E293B?style=flat-square&logo=codefactor&logoColor=10B981" alt="Cursor AI" />
       <img src="https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
       <img src="https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
-      <img src="https://img.shields.io/badge/npm-1E293B?style=flat-square&logo=npm&logoColor=CB3837" alt="npm" />
+      <img src="https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+      <img src="https://img.shields.io/badge/Chrome_DevTools-1E293B?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Chrome DevTools" />
       <img src="https://img.shields.io/badge/Vite-1E293B?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
     </td>
     <td valign="top" width="50%">
-      <h4>📚 Fields of Learning</h4>
+      <h4>📚 Currently Learning</h4>
       <img src="https://img.shields.io/badge/Angular-1E293B?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular" />
       <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Redux-1E293B?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
@@ -82,12 +82,12 @@
 
 ---
 
-### 📖 Currently Learning & Deepening Focus
+### 📖 Continuous Learning & Focus
 
-*   ⚡ **React Performance:** Rendering profiling, code-splitting optimization, and state management optimization.
-*   🎣 **Advanced React Hooks:** Memoization structures (`useMemo`, `useCallback`) and custom hook design.
-*   📐 **Frontend Architecture:** Scalable directory structures, design system tokens, and strict type safety.
-*   🎨 **Accessability & System Design:** Semantic tags implementation, keyboard navigation support, and system architecture fundamentals.
+- ⚡ **React Optimization Basics:** Understanding rendering cycles, profiling tools, and state optimization.
+- 🎣 **Custom Hooks & React Router:** Building dynamic navigation routers and extracting stateful UI logics.
+- 📐 **Redux & TypeScript:** Learning how to type component props and structure globally managed application states.
+- 🎨 **Accessibility Fundamentals:** Implementing semantic elements and keyboard accessible inputs.
 
 ---
 
@@ -97,10 +97,10 @@
   <tr>
     <td width="50%" valign="top">
       <h4>📊 ERP Management System</h4>
-      <p>Enterprise dashboard supporting multi-role authentication layers, interactive attendance indices, and payroll monitoring tables.</p>
+      <p>A web-based ERP client dashboard constructed to manage attendance rates, employee listings, and payroll tables.</p>
       <ul>
-        <li><b>Features:</b> Authenticated route guards, dynamic form validation, attendance reporting graphs, and modular component configuration.</li>
-        <li><b>Tech Stack:</b> React · JavaScript · HTML5 · CSS3 · Tailwind CSS · REST APIs</li>
+        <li><b>Features:</b> Form input validations, role-based screen layouts, modular dashboard metrics, and interactive widgets.</li>
+        <li><b>Tech Stack:</b> React · JavaScript · HTML5 · CSS3 · Tailwind CSS · REST API</li>
         <li>
           <a href="https://github.com/PatelHeliHub" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github" alt="Repository" />
@@ -113,9 +113,9 @@
     </td>
     <td width="50%" valign="top">
       <h4>🤝 Amplimentor</h4>
-      <p>A responsive peer-mentoring web platform linking students and mentors via calendar scheduling algorithms.</p>
+      <p>A peer-to-peer mentoring site connecting students and mentors via a simple scheduler interface.</p>
       <ul>
-        <li><b>Features:</b> Secure profile pages, appointment scheduler module, dynamic dashboard panels, and mobile-responsive layout adapters.</li>
+        <li><b>Features:</b> Interactive scheduler pages, user profile panels, login screens, and dynamic CSS styling.</li>
         <li><b>Tech Stack:</b> HTML5 · CSS3 · JavaScript</li>
         <li>
           <a href="https://github.com/PatelHeliHub/Amplimentor" target="_blank">
@@ -131,9 +131,9 @@
   <tr>
     <td colspan="2" valign="top">
       <h4>🎬 MovieZone</h4>
-      <p>A clean, responsive catalog listing trending cinematic contents utilizing client-side caching and API search logic.</p>
+      <p>A responsive movie indexing site where users can search cinematic releases and browse details.</p>
       <ul>
-        <li><b>Features:</b> Real-time searching with category indexes, clean layout grids, and responsive bootstrap modal views.</li>
+        <li><b>Features:</b> Live search queries, card grid listings, category sorting filters, and dynamic layout scaling.</li>
         <li><b>Tech Stack:</b> React.js · JavaScript · Bootstrap</li>
         <li>
           <a href="https://github.com/PatelHeliHub" target="_blank">
@@ -150,10 +150,10 @@
 
 ---
 
-### 🏆 Achievements & Career Milestones
-- 🎓 **Frontend Developer Internship:** Practical exposure to live codebases and corporate dashboard deployments.
-- 💻 **ERP Development Execution:** Successfully coded complex modules (Payroll, Employee Attendance, and JWT Auth integration).
-- ⭐ **Open Source & Continuous Learning:** Active contributor profile, regularly expanding engineering stack.
+### 🏆 Achievements & Milestones
+- 🎓 **Frontend Developer Internship:** Practical development exposure working on dashboards and form interfaces.
+- 💻 **ERP Modules Deployment:** Built UI views for payroll modules, attendance systems, and user authentication layouts.
+- ⭐ **Active GitHub Contributor:** Frequently posting projects, fixing bugs, and learning modern toolsets.
 
 ---
 
@@ -188,11 +188,6 @@
 
 ---
 
-### ⚡ Fun Fact
-> *"I enjoy transforming creative ideas into responsive, interactive user interfaces and continuously exploring modern frontend tech."*
-
----
-
 <p align="center">
-  Thank you for visiting! Feel free to explore my repositories. Let's connect and build something awesome together! 🌟
+  Thank you for checking out my profile! Feel free to review my repositories. Let's connect and build something awesome together! 🌟
 </p>
