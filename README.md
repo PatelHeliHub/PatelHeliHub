@@ -2,9 +2,9 @@
   
   # Heli Patel
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B+I%27m+Heli+Patel;Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B+I%27m+Heli+Patel;Frontend+Developer;React+Developer;JavaScript+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-  **Frontend Developer | React Developer | JavaScript Enthusiast**  
+  **Frontend Developer | React Developer | JavaScript Developer**  
   *Passionate about building responsive, clean, and user-friendly web applications.*
 
   <p align="center">
@@ -43,7 +43,7 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Cursor_AI-1E293B?style=for-the-badge&logo=codefactor&logoColor=10B981)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
